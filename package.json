@@ -1,0 +1,25 @@
+{
+  "name": "@kamalion/react-service",
+  "description": "Utilities to help axios to make better react apps",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "typings": "./types/index.d.ts",
+  "repository": "https://github.com/KamalionLabs/react-service.git",
+  "author": "Rony Moura <ronymmoura@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KamalionLabs/react-service/issues"
+  },
+  "homepage": "https://github.com/KamalionLabs/react-service#readme",
+  "devDependencies": {
+    "@types/node": "^13.7.1",
+    "gluegun": "^4.1.2",
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "scripts": {
+    "build": "node build.js"
+  }
+}
