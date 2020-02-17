@@ -1,7 +1,7 @@
 {
   "name": "@kamalion/react-service",
   "description": "Utilities to help axios to make better react apps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "typings": "./types/index.d.ts",
   "repository": "https://github.com/KamalionLabs/react-service.git",
